@@ -6,4 +6,4 @@ For 3x3 keypad
 ![circuito2](circuito2.jpg)
 
 Instructional video available on youtube
-[![Instructional video](circuito1.jpg)](https://www.youtube.com/watch?v=tGfPhHPaHQo)
+[![Instructional video](front.jpg)](https://www.youtube.com/watch?v=tGfPhHPaHQo)
