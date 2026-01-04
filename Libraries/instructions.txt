@@ -1,0 +1,2 @@
+copy keypad folders in C:/Program files/arduino/libraries
+copy Adafruit_SSD1306 folder in Documents/arduino/libraries
