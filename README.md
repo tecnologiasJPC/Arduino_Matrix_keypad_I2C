@@ -1,3 +1,4 @@
+#Connections diagram
 Verify these connections are correctly done for arduino board and perifericos.
 For 4x4 keypad
 ![circuito1](circuito1.jpg)
