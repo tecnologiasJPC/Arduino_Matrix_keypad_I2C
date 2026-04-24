@@ -1,5 +1,5 @@
 # Connections diagram
-Verify these connections are correctly done for arduino board and perifericos.
+Verify these connections are correctly done for arduino board and perifericos. I2C bus is shared for keypad and OLED.
 For 4x4 keypad
 ![circuito1](circuito1.jpg)
 
