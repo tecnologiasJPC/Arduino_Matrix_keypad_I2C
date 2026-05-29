@@ -9,3 +9,5 @@ For 3x3 keypad these are the required connections.
 # Instructional video available on youtube
 For a more precise process, this is the video guideline.
 [![Instructional video](front.jpg)](https://www.youtube.com/watch?v=tGfPhHPaHQo)
+
+Software tested on Arduino UNO and Arduino Mega.
